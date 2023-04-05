@@ -9,9 +9,9 @@
 ![Image](http://url/a.png)
 > Block 
 
-* List
-* List
-* List
+* List1
+* List2
+* List3
 
 1. One 
 2. Two
@@ -24,6 +24,6 @@ Horizontal Rule:
 
 ```
 # code block
-print '3 backticks or'
-print 'indent 4 spaces'
+Everything is in 
+a box
 ```
